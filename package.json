@@ -1,0 +1,34 @@
+{
+  "name": "codeforces-problem-template",
+  "version": "1.0.0",
+  "description": "Developed by Ahmmed Abir. Inspired from rachitiitr",
+  "main": "problem.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmmedabir9/codeforces-problem-template.git"
+  },
+  "keywords": [
+    "competitive-programming",
+    "javascript",
+    "template",
+    "codeforces",
+    "CF-problem",
+    "Sublime-Text",
+    "CPPFstOlympicCoding",
+    "abir"
+  ],
+  "author": "Ahmmed Abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmmedabir9/codeforces-problem-template/issues"
+  },
+  "homepage": "https://github.com/ahmmedabir9/codeforces-problem-template#readme"
+}
